@@ -23,4 +23,4 @@ urlpatterns = [
     path('',views.homepage),
     path('about/',views.about),
 
-]
+] 
